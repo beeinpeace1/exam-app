@@ -1,0 +1,48 @@
+.home-holder {
+    color: var(--black);
+}
+
+.lang-sections {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.lang-sections article {
+    flex-grow: 1;
+    margin: 20px;
+    background: var(--crimson);
+    padding: 50px 0px;
+    border-radius: 10px;
+}
+
+.lang-sections article h3 {
+    font-size: 1.4em;
+    padding-bottom: 50px;
+}
+
+.lang-sections article a {
+    color: crimson;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 15px;
+    transition: all .2s ease;
+    border-radius: 10px;
+    background: rgb(0, 0, 0);
+    box-shadow: 0px 0px 10px 1px #0001;
+    text-transform: uppercase;
+}
+
+.lang-sections article a:hover {
+    background: crimson;
+    color: black;
+    box-shadow: 0px 0px 10px 1px #0003;
+}
+
+.card-title {
+    font-size: 2em !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+}

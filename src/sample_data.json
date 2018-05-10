@@ -1,0 +1,44 @@
+[
+    {
+        "category": "html",
+        "question": "Which tag is used to define links in HTML?",
+        "options": ["a", "br", "link", "quote"],
+        "answer": 0,
+        "type": "checkbox"
+    },
+    {
+        "category": "html",
+        "question": "Which tag is used to make text italic in HTML?",
+        "options": ["em", "i", "h4", "b"],
+        "answer": 1,
+        "type": "text"
+    },
+    {
+        "category": "html",
+        "question": "Current version of HTML",
+        "options": ["8", "5", "3", "4"],
+        "answer": 1,
+        "type": "radio"
+    },
+    {
+        "category": "css",
+        "question": "How do you give shadow to text using CSS?",
+        "options": [],
+        "answer": 0,
+        "type": "text"
+    },
+    {
+        "category": "js",
+        "question": "Write an example of anonymous function in JavaScript.",
+        "options": [],
+        "answer": 0,
+        "type": "text"
+    },
+    {
+        "category": "js",
+        "question": "Which Array method is used to chop an array immutably?",
+        "options": ["splice", "cut", "chop", "slice"],
+        "answer": 3,
+        "type": "radio"
+    }
+]
