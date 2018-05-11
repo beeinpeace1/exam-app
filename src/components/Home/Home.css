@@ -46,3 +46,7 @@
     font-weight: 600 !important;
     text-transform: uppercase !important;
 }
+
+.card-action a {
+    font-weight: 500;
+}

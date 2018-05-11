@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Aux.css';
+import './Middleware.css';
 
 const Aux = ( props ) => {
     return (
